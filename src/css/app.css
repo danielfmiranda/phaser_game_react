@@ -1,0 +1,65 @@
+.siteContainer {
+    text-align: center;
+}
+
+.mapComponentContainer {
+    clear: both;
+    margin-top: 2em;
+}
+
+.titleCard {
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 1200px;
+
+    /*opacity: 0;*/
+}
+
+body {
+    background-color: #5b6ad0 !important;
+    /*background-image: url("../assets/gameboyadv.png");*/
+    /*background-repeat-x: no-repeat;*/
+    /*!* position: absolute; *!*/
+    /*!* top: 6%; *!*/
+    /*background-size: 120%;*/
+    /*background-position: top 39% left 55%;*/
+}
+
+.footer {
+    margin-top: 1.5em;
+    align-content: center;
+    text-align: center;
+    /*opacity: 0;*/
+}
+
+.footerIcon {
+
+}
+
+.nes-icon {
+    transform: scale(2) !important;
+    margin: 10px 40px 40px 0px !important;
+}
+
+.nes-icon:hover {
+    transition-duration: .1s;
+}
+
+
+.gameContainer {
+    margin: auto;
+    width: 40em;
+    background-color: #212529;
+    /*height:30em;*/
+    border: 10px #212529 solid;
+
+}
+
+.gameContainer h1 {
+    font-family: 'Nunito Sans', sans-serif, italic;
+    margin-top: 1em;
+    color: white;
+}
+
